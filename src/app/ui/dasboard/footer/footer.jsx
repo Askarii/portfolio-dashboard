@@ -4,7 +4,7 @@ import styles from './footer.module.css'
 const Footer = () => {
   return (
     <div className={styles.container}>
-      <div className={styles.logo}>Black Sea</div>
+      <div className={styles.logo}>Portfolio</div>
       <div className={styles.text}>@All Rights Reserved.</div>
     </div>
   )
